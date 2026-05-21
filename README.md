@@ -8,7 +8,7 @@ The proposed method computes the **Time Quantum (TQ)** in each scheduling cycle 
 
 ---
 
-## Algorithm Description
+## Algorithm Description:
 
 ### 1. Ready Queue Initialization
 All processes are inserted into the ready queue according to arrival order.
